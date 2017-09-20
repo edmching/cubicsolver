@@ -12,6 +12,7 @@ int solve_cubic(double d, double c, double b, double a, double out[]) {
 
 }
 
+//Main Function
 int main() {
 
   std::cout << "Cubic root solver" << std::endl;
