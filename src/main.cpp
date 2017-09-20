@@ -9,12 +9,7 @@ int solve_cubic(double d, double c, double b, double a, double out[]) {
 
    // YOUR CODE HERE //
    // See README.md for hints //
-<<<<<<< HEAD
    int i = 0;
-=======
-
->>>>>>> f0cb34b8335228280f7c048ea45c850c47d8d9a4
-
    std::cout << "integer" << i << std::endl;   
    return 0;
 }
