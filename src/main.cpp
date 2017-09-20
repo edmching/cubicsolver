@@ -9,6 +9,10 @@ int solve_cubic(double d, double c, double b, double a, double out[]) {
 
    // YOUR CODE HERE //
    // See README.md for hints //
+   
+   int jk = 1000;
+   
+   return 1;
 
 }
 
